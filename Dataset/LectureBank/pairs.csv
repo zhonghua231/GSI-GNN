@@ -1,0 +1,944 @@
+A,B,result,RefD
+graphical models,Mean Field Approximation,1,-0.040949406
+natural language processing intro,speech processing,1,-0.098075254
+natural language processing intro,adversarial search,0,-0.035081749
+probabilities,bayesian network,1,-0.127722576
+Kernel Graphical Models,Canonical Correlation Analysis,0,0.0198702271016603
+caption generation,Hilbert Space,0,0
+syntaxnet,Kernel Graphical Models,0,-0.012056428
+document representation,Hilbert Space,0,0
+nn sequence parsing,evaluation of information retrieval,0,-0.001561491
+natural language processing intro,sentence boundary recognition,1,0
+shift-reduce parsing,Belief Propagation,0,0
+programming languages,preprocessing,1,-0.076738121
+structured learning,document representation,1,0
+bio text mining,nlp for biology,1,-0.210833075
+evaluation of language modeling,neural language modeling,1,0.0140820325442595
+python,tools for dl,1,-0.0191166
+deep learning introduction,markov chain monte carlo,0,-0.010394379
+expectation maximization algorithm,Markov Random Fields,0,-0.021457295
+linguistics basics,information extraction,1,-0.018275334
+probabilities,speech processing,1,0.0070497448180358
+speech signal analysis,speech processing,1,-0.012687656
+vector representations,context free grammars,1,0.0088806163558492
+KKT conditions,phonetics,0,0
+markov decision processes,Naive Bayes,0,0.0580942853864765
+machine learning resources,sequence classification and conditional random fields,1,-0.459167196
+linguistics basics,phonetics,1,0.150844518774586
+document ranking,feature selection,0,-0.005267997
+linguistics basics,semantic parsing,1,-0.010676282
+question answering,nlp for databases,0,-0.003307993
+machine translation techniques,neural machine translation,1,0.0735814478533695
+random walks and harmonic functions,neural networks,1,-0.014371776
+calculus,Meta-Learning,1,0
+entailment,toolkits for information retrieval,0,-0.003102721
+information retrieval,toolkits for information retrieval,1,-0.176270914
+linguistics basics,penn treebank,1,0.0196520173654443
+statistical part of speech tagging,course introduction,1,0
+Belief Propagation,reading comprehension,0,0
+wordnet,thesaurus-based similarity,1,-0.642081766
+discourse analysis,nn sequence parsing,0,-0.062867746
+natural language processing intro,text to speech generation,1,0.195416394825333
+toolkits for information retrieval,information extraction,1,0.256969878076212
+dynamic programming,course introduction,1,0
+classic parsing methods,Message Passing,0,0
+evaluation of information retrieval,graphical models,0,0.119556504987992
+game playing in ai,neural parsing,0,0
+structured learning,linear discriminant analysis,1,0.592143428101011
+Unsupervised learning,k means,1,0.159083099431288
+dimensionality reduction,latent semantic indexing,1,-0.034640315
+probabilities,social network extraction,1,-0.009647415
+text generation,generative and discriminative models,0,0.0489633782802621
+text similarity,document representation,1,0.0236376348676037
+linguistics basics,speech synthesis,1,-0.010127857
+Hilbert Space,support vector machines,0,-0.010067796
+sentence representations,transfer learning,0,0.0613671623067901
+logic and logical agents,propositional logic,1,0.0937949654012194
+latent variable models,linear discriminant analysis,1,0.129242168257776
+sentence representations,sentence simplification,1,0.0456552573072706
+Belief Propagation,python,0,0
+latent variable models,lexicography,0,0
+normalization,morphology and semantics in machine translation,0,0
+beam search,Mixture Models,0,0
+sentence representations,sentiment analysis,1,0.0772485134690346
+linguistics basics,prosody,1,-0.020176425
+normalization,parsing evaluation,0,0
+probabilities,question answering,1,-0.033141527
+graph theory,Message Passing,1,0.012941256358827
+State Space Models,bootstrapping,0,0.0040920355962965
+graph theory,context sensitive grammar,0,0.0027804964205309
+planning,linear algebra,0,0
+latent semantic indexing,Variable Elimination,0,0
+grammar checker,nn sequence parsing,0,-0.02232781
+classification,sentence boundary recognition,1,0.0217779320280841
+q learning,others,0,0
+statistical machine translation,social network extraction,0,0.0035448831289229
+recurrent neural networks,problem solving and search,0,0.0020424128596166
+Sampling,gibbs sampling,1,0
+Belief Propagation,multi-task learning,0,-0.006166774
+Sampling,Unsupervised learning,0,0
+attention models,statistical parsing,0,-0.02857178
+agent-based view of ai,propositional logic,0,0.0144925850034132
+probabilities,Mixture Models,1,-0.120565223
+natural language processing intro,dialog systems,1,-0.16806249
+parts of speech,programming languages,0,-0.000300355
+graph-based nlp,tsne,0,0.0441425574469206
+calculus,State Space Models,1,-0.031942517
+Markov chains,latent dirichlet allocation,1,-0.014222871
+logic and reasoning,propositional logic,1,0.171847852688093
+classification,sequence classification and conditional random fields,1,-0.023478144
+particle filter,Principal Component Analysis,0,0.312469339399307
+logic and reasoning,predicate logic,1,0.203720097450017
+machine learning resources,neural networks,1,-0.175491915
+sequence classification and conditional random fields,transition based dependency parsing,0,-0.047902898
+preprocessing,unlexicalized parsing,0,0.0108860437601086
+context sensitive grammar,Message Passing,0,0
+structured learning,vector representations,1,-0.041630322
+Manifold Learning,loss function,0,0.0739263336347675
+Markov chains,markov chain monte carlo,1,-0.087135632
+radial basis function network,Markov chains,0,0.0241687707579503
+question answering,n-gram models,0,-0.169619345
+lexical semantics,normalization,0,0
+dual problems,deep learning tools,0,0.003912065780727
+linguistics basics,entailment,1,-0.017728369
+information extraction,social media analysis,1,-0.042137295
+tools for dl,Naive Bayes,0,0
+finite state machines,uncertainty,0,0
+planning,neural networks,0,0
+Unsupervised learning,tsne,1,0.359764271848636
+neural question answering,Hilbert Space,0,0.001080862795053
+bootstrapping,deep learning tools,0,0.013114276721067
+monte carlo tree search,random walks,0,0.0071320076062393
+search,adversarial search,1,0
+text generation,Mean Field Approximation,0,0
+vector semantics,transliteration,0,0
+recursive neural networks,context sensitive grammar,0,0
+neural networks,memory networks,1,0.0401237244818456
+information retrieval,image retrieval,1,-0.186691545
+data structures and algorithms,ResNet,0,0
+linguistics basics,noisy channel model,1,0
+linguistics basics,edit distance,1,0
+facial recognition systems,random walks and harmonic functions,0,-0.000744751
+tree adjoining grammar,context sensitive grammar,1,0.181229792362821
+text similarity,recommendation system,1,0.303332723555766
+natural language processing intro,shift-reduce parsing,1,-0.148023179
+linear algebra,mathematical models,1,-0.052495257
+problem solving and search,game playing in ai,1,-0.009796844
+natural language processing intro,spelling correction,1,0
+search,a* search,1,0
+recursive neural network,Kernel Graphical Models,0,0.136674795904036
+chomsky hierarchy,context sensitive grammar,1,0.0083488751356012
+language modeling,evaluation of language modeling,1,-0.014082033
+logic and logical agents,text summarization,0,0
+class logistics,Variable Elimination,0,0
+evaluation of language modeling,text generation,1,-0.172131395
+theory of computation,Meta-Learning,0,0
+vector semantics,combinatory categorial grammar,0,0
+search,problem solving and search,1,0
+random walks and harmonic functions,sentiment analysis,1,-0.001063662
+probabilities,structured sparsity,1,-0.01600984
+graph convolutional networks,probabilistic grammars,0,0.0036949338325911
+logic and reasoning,Sampling,0,0
+parsing,lexicalized parsing,1,-0.331093005
+natural language processing intro,Sequence to sequence,1,-0.01337815
+loss function,classification,1,-0.022224682
+State Space Models,penn treebank,0,0.0432960265074058
+word distributions,course introduction,0,0
+vector representations,word sense disambiguation,1,-0.147436137
+Unsupervised learning,neural networks,1,0.0015877521568849
+natural language processing intro,course introduction,1,0
+gradient descent,neural summarization,0,-0.010212086
+matrix factorization,evaluation of text classification,0,-0.004057693
+probabilities,chinese nlp,0,-0.004810873
+perceptron,speech signal analysis,0,0.0444174758449246
+linguistics basics,probabilistic context free grammars,1,0
+natural language processing intro,relation extraction,1,-0.231150763
+bayesian network,hidden markov models,1,0.0171060714918157
+machine learning resources,linear discriminant analysis,1,0.0924743673389569
+natural language processing intro,tokenization,1,0
+loss function,Meta-Learning,1,-0.029929023
+generative adversarial networks,speech signal analysis,0,0.0324480188216764
+vector representations,vector semantics,0,-0.105390624
+bootstrapping,machine translation techniques,0,0.0076344656343058
+training neural networks,recursive neural networks,1,-0.159989078
+latent variable models,spelling correction,0,0
+summarization evaluation,Markov chains,0,0.0263618766648143
+natural language processing intro,discourse analysis,1,-0.00334155
+machine translation techniques,statistical machine translation,1,-0.405336429
+Markov chains,Variations of GANs,0,-0.022089379
+text summarization,summarization evaluation,1,0
+probabilistic grammars,probabilistic context free grammars,1,0
+Autoencoders,nlp for databases,0,0
+structured learning,language identification,0,0
+nlp and vision,document representation,0,0
+neural networks,Autoencoders,1,0.0456815199541349
+context sensitive grammar,problem solving and search,0,0.0094195089108656
+machine translation techniques,deep learning tools,0,-0.039405165
+Naive Bayes,radial basis function network,0,-0.140410603
+conditional probability,lexicalized parsing,0,0
+summarization evaluation,question answering,0,-0.072383542
+regularization,neural parsing,0,0
+natural language processing intro,chinese nlp,1,0
+deep learning tools,Belief Propagation,0,-0.018538304
+lexicography,text to speech generation,0,0.0048946609050302
+Variations of GANs,information extraction,0,-0.044866732
+structured learning,word distributions,1,0.0069920448158849
+morphology and semantics in machine translation,recursive neural network,0,-0.01351507
+feature selection,Hilbert Space,0,0.0048330867282583
+vector semantics,semantic similarity,1,0.0806865313711661
+graph convolutional networks,handwriting recognition,0,-0.202891155
+structured learning,sentence representations,1,-0.546636291
+natural language processing intro,document representation,1,0.0033249795161125
+policy gradient methods,evaluation of text classification,0,-0.038269466
+variational bayes models,information retrieval,0,-0.000223836
+penn treebank,logic and logical agents,0,0.0014630287878247
+spectral clustering,class logistics,0,0
+q learning,structured sparsity,0,-0.350506102
+evaluation of language modeling,character level language models,1,0.146154556694561
+linguistics basics,automated essay scoring,1,-0.024370232
+machine learning resources,latent dirichlet allocation,1,-0.28486652
+logic and reasoning,knowledge representation,1,-0.033358221
+generative and discriminative models,Variations of GANs,1,-0.228230388
+parts of speech,discourse model,0,0.0238889674889503
+machine translation techniques,penn treebank,0,0.0466023962157111
+discourse analysis,statistical machine translation,0,-0.030106378
+discourse parsing,predicate logic,0,-0.008167343
+phonetics,mathematical models,0,-0.003428251
+support vector machines,Meta-Learning,0,-0.069554632
+classification,sentiment analysis,1,0.0234662043884215
+long short term memory networks,memory networks,1,0
+document representation,agent-based view of ai,0,0
+cky parsing,matrix multiplication,0,0.011077085729177
+natural language processing intro,first order logic,0,-0.008167343
+spelling correction,Autoencoders,0,0
+probabilities,monte carlo methods,1,-0.043185251
+nlp for the humanities,structured sparsity,0,-0.01997845
+probabilities,word distributions,1,-0.049679665
+summarization evaluation,knowledge graph,0,-0.021804355
+latent variable models,speech signal analysis,0,0.0351317587505186
+parsing,statistical parsing,1,-0.37459003
+word distributions,document representation,1,0.0237374150478818
+latent semantic indexing,Sampling,0,0
+Principal Component Analysis,latent semantic indexing,1,-0.032539318
+natural language processing intro,event detection,1,-0.146667312
+linear algebra,structured learning,1,-0.011603857
+linguistics basics,document representation,1,0
+loss function,Autoencoders,1,0.123401979847579
+vector representations,structured learning,1,0.0416303217650186
+vector representations,recommendation system,1,0.0036264844925345
+linguistics basics,language modeling,1,-0.011749365
+tools for dl,document representation,0,0
+structured learning,tsne,1,0.51336855689648
+matrix factorization,predicate logic,0,0
+text similarity,word sense disambiguation,1,0.0047016440115414
+Manifold Learning,activation functions,0,0.0017094765720973
+search,informed search,1,0
+reinforcement learning,agent-based view of ai,1,-0.074247567
+linguistics basics,shallow parsing,1,-0.043166829
+vector representations,kernels,1,0
+planning,robotics,1,0.0216382020337858
+class logistics,wordnet,0,0
+vector representations,automated essay scoring,1,-0.352299504
+text similarity,event detection,1,0
+uncertainty,training neural networks,0,0.0067179479665437
+problem solving and search,language identification,0,-0.065701575
+sentence representations,neural machine translation,1,0.27596193792553
+character level language models,Variable Elimination,0,0.001777067521327
+calculus,machine learning resources,1,0.0257126636397241
+optimization,word distributions,0,-0.011127565
+syntax,dependency syntax,1,-0.166990913
+word embedding variations,ResNet,0,-0.002688166
+vector semantics,recommendation system,1,0.032341428890723
+natural language processing intro,language identification,1,-0.227906419
+parsing,semantic parsing,1,-0.046257318
+speech signal analysis,chomsky hierarchy,0,-0.003899863
+backpropagation,cky parsing,0,-0.020716124
+text similarity,tsne,0,0.0277002411098303
+recurrent neural networks,neural question answering,1,-0.021437036
+dependency parsing,evaluation of dependency parsing,1,0
+optimization,generative and discriminative models,0,-0.026582105
+Sampling,markov chain monte carlo,1,0
+nlp for the humanities,Meta-Learning,0,0
+natural language processing intro,shallow parsing,1,-0.430866668
+evaluation of question answering,logic and reasoning,0,0.0126946801226557
+multi-task learning,dimensionality reduction,0,0.140284853237234
+agent-based view of ai,markov decision processes,0,0.0298236283539295
+linguistics basics,nlp and vision,1,0
+word embedding,heuristic search,0,0.0155766206654649
+deep learning introduction,neural turing machine,1,-0.53197139
+calculus,harmonic functions,1,-0.127253495
+convolutional neural network,text similarity,0,-0.03619661
+linguistics basics,named entity recognition,1,-0.025542455
+speech processing,text to speech generation,1,0.107310854514176
+linguistics basics,propositional logic,1,-0.003274808
+syntax based machine translation,activation functions,0,-0.08997456
+semi-supervised learning,attention models,0,0.64578420747559
+document ranking,latent semantic indexing,0,0.106263083570753
+discourse analysis,discourse parsing,1,0.0033415499851501
+structured learning,semantic similarity,1,0.0050106306935904
+machine translation,statistical machine translation,1,-0.405336429
+linear algebra,machine learning resources,1,0.0342456367114199
+natural language processing intro,chomsky hierarchy,1,-0.015374317
+maximum likelihood estimation,deep learning introduction,0,0.0164974856816198
+spectral methods,Autoencoders,0,0.0012607740668109
+syntax based machine translation,caption generation,0,-0.314888551
+generative and discriminative models,course introduction,0,0
+newton method,search engines,0,0.0032043658845895
+linear algebra,Mixture Models,1,-0.016380114
+linguistics basics,cky parsing,1,-0.028005094
+morphology and semantics in machine translation,regular expressions,0,0.0027424283864143
+context free grammar,Canonical Correlation Analysis,0,-0.002077576
+evaluation of information retrieval,query expansion,1,-0.156107454
+nlp for databases,bidirectional recurrent neural networks,0,0
+optimization,KKT conditions,1,-0.130972696
+bayes theorem,bayesian network,1,-0.165064469
+genetic algorithms,class logistics,0,0
+planning,problem solving and search,1,-0.056968194
+q learning,State Space Models,0,-0.469101019
+sentence boundary recognition,Markov Random Fields,0,-0.03420961
+parsing evaluation,semantic parsing,1,0.0052428605202302
+heuristic search,data structures and algorithms,0,0.0377011185381285
+bayes theorem,question answering,1,-0.017216842
+object detection,text to speech generation,0,-0.001405666
+reading comprehension,Lagrange duality,0,0
+probabilities,cky parsing,1,-0.032939626
+document ranking,clustering,0,0
+nlp and vision,phrase based machine translation,0,0.0033079931927831
+Markov chains,markov decision processes,1,-0.045592046
+word embedding,word embedding variations,1,0
+toolkits for information retrieval,Naive Bayes,0,0.068248521255687
+information retrieval,Lagrange duality,0,0
+context free grammars,neural language modeling,0,-0.015016712
+data structures and algorithms,crawling the web,0,-0.012597125
+probabilities,latent variable models,1,-0.10395975
+KKT conditions,natural language processing intro,0,-0.002697211
+linguistics basics,speech processing,1,-0.011355839
+structured sparsity,linear programming,0,0.108053505989752
+toolkits for information retrieval,query expansion,1,-0.139344078
+stemming,statistical part of speech tagging,0,0.0488225876341657
+structured learning,hidden markov models,0,0.587743680880494
+edit distance,discourse parsing,0,0.109403715911168
+kernel function,Mixture Models,1,0
+nlp for biology,highway networks,0,0.0161105704385073
+syntax,syntax based machine translation,1,-0.04212062
+chomsky hierarchy,probabilistic grammars,1,-0.084678523
+regular expressions,statistical part of speech tagging,0,-0.010512246
+facial recognition systems,lexical semantics,0,0
+linguistics basics,semantic role labeling,1,-0.046088822
+structured sparsity,sequence classification and conditional random fields,0,0.279465388402993
+latent variable models,spectral methods,0,0
+ensemble learning,social media analysis,0,-0.034877913
+summarization evaluation,scientific article summarization,1,0.0080928047441712
+linguistics basics,word sense disambiguation,1,-0.036328489
+lexical semantics,event detection,1,0
+probabilities,variational bayes models,1,-0.12200503
+Belief Propagation,toolkits for information retrieval,0,0
+sentence representations,Manifold Learning,0,0.0512875522550247
+computational phonology,reading comprehension,0,-0.049324977
+sentence representations,automated essay scoring,1,0.0425571504784138
+linguistics basics,text to speech generation,1,-0.010127857
+calculus,latent variable models,1,0.0008666474416183
+automated essay scoring,planning,0,0
+Markov chains,bio text mining,0,0.0025913775130887
+Hilbert Space,unlexicalized parsing,0,0
+vector semantics,word embedding,1,0.118206873819161
+optimization,machine learning resources,1,-0.020281247
+topic modeling,statistical part of speech tagging,0,0.0263830890695495
+lexical semantics,word segmentation,0,-0.068515505
+natural language processing intro,regular expressions,1,-0.046930326
+adversarial search,reinforcement learning,0,0.0405705756854011
+kullback leibler divergence,Meta-Learning,0,0
+regular expressions,random walks and harmonic functions,0,0
+Principal Component Analysis,matrix factorization,1,0.0203415648130774
+natural language processing intro,grammar checker,1,-0.320422562
+natural language processing intro,vector representations,1,-0.022459941
+State Space Models,Message Passing,0,0
+Principal Component Analysis,particle filter,0,-0.312469339
+heuristic search,a* search,1,0
+random walks and harmonic functions,semi-supervised learning,1,-0.016461956
+vector semantics,text mining,1,0.190602963804847
+Mean Field Approximation,edit distance,0,0
+Gaussian graphical models,statistical parsing,0,0
+nlp for databases,machine translation techniques,0,0.0060023301719828
+Unsupervised learning,spectral clustering,1,-0.053299976
+thesaurus-based similarity,classic parsing methods,0,0
+natural language processing intro,word sense disambiguation,1,-0.095908764
+latent variable models,recurrent neural networks,0,-0.009706349
+Canonical Correlation Analysis,recurrent neural networks,0,-0.058802223
+structured learning,log-linear models,0,0.0060189836114677
+question answering,neural question answering,1,0.0085254733470239
+query expansion,course introduction,0,0
+a* search,Visual QA,0,0
+linguistics basics,shift-reduce parsing,1,0.0132200303159219
+part of speech tagging,statistical part of speech tagging,1,0
+convolutional neural network,ResNet,1,0
+natural language processing intro,probabilistic context free grammars,1,-0.109730453
+calculus,Manifold Learning,1,-0.010076973
+machine learning resources,game playing in ai,1,-0.070924978
+evaluation of text classification,language identification,1,-0.14047331
+seq2seq,neural summarization,1,0.221791656455123
+machine learning resources,Unsupervised learning,1,-0.427788818
+optimization,memory networks,1,-0.044559803
+scientific article summarization,neural question answering,0,0.0017545361046106
+machine learning resources,matrix factorization,1,-0.068189175
+structured learning,bio text mining,1,0.0263424676274468
+natural language processing intro,word segmentation,1,-0.301654837
+vector representations,bag of words model,1,-0.40039187
+State Space Models,perceptron,0,0.189668015667615
+machine learning resources,log-linear models,1,-0.212768871
+backpropagation,Variations of GANs,1,0.173948973072208
+computational phonology,caption generation,0,0
+discourse parsing,capsule networks,0,-0.152106268
+vector representations,evaluation of text classification,1,-0.301946203
+lexicalized parsing,recurrent neural networks,0,0.0448955154391974
+probabilities,problem solving and search,1,-0.0130634
+natural language processing intro,nlp for the humanities,1,-0.326685439
+linguistics basics,dialog systems,1,0
+statistical parsing,Belief Propagation,0,0.0255936830233665
+sentence representations,document representation,1,0
+neural networks,convolutional neural networks,1,0.0901545020986423
+parts of speech,context-sensitive grammars,0,0
+shallow parsing,cky parsing,1,0.106098884034638
+gibbs sampling,Visual QA,0,0
+deep learning introduction,word embedding,1,-0.313378281
+spectral clustering,morphology and lexicon,0,0
+machine translation,logic and reasoning,0,0.0152407972628564
+natural language processing intro,morphology and lexicon,1,-0.048797923
+optimization,Meta-Learning,1,0
+spectral methods,natural language processing intro,0,0
+deep learning introduction,stack lstm,1,-0.289271107
+agent-based view of ai,wordnet,0,-0.008823367
+social network extraction,statistical part of speech tagging,0,-0.003248802
+linear regression,neural language modeling,0,-0.33550701
+toolkits for information retrieval,structured prediction,0,0.0043690589278606
+training neural networks,stack lstm,1,-0.317339187
+chinese nlp,spelling correction,1,0
+natural language processing intro,nlp and vision,1,-0.000905829
+sentence representations,seq2seq,0,0.266376471998785
+classic parsing methods,thesaurus-based similarity,0,0
+natural language processing intro,query expansion,1,-0.229169674
+natural language processing intro,cky parsing,1,-0.348336407
+syntaxnet,class logistics,0,0
+crawling the web,neural parsing,0,-0.009483184
+linguistics basics,morphology and lexicon,1,-0.056575008
+heuristic search,evaluation of dependency parsing,0,-0.025518078
+vector representations,word embedding variations,0,-0.141577279
+search engines,statistical parsing,0,0
+nlp for biology,dependency parsing,0,0.210833074535447
+Manifold Learning,search engine indexing,0,0
+vector representations,tsne,1,0.264143422067658
+linear algebra,Message Passing,1,0.0015974336090048
+word embedding variations,word sense disambiguation,1,-0.066899697
+lexical semantics,probabilistic grammars,0,-0.007180022
+neural machine translation,Visual QA,0,0
+recommendation system,deep learning introduction,0,0.0140836594152835
+dimensionality reduction,transfer learning,0,-0.077228816
+natural language processing intro,language modeling,1,-0.085999669
+text similarity,particle filter,0,-0.002565976
+dynamic programming,cky parsing,1,-0.033135454
+semantic similarity,text mining,1,0.10136325304795
+natural language processing intro,propositional logic,1,-0.008700463
+bagging,discourse analysis,0,0
+programming languages,imagenet,0,-0.03410303
+vector semantics,word sense disambiguation,1,0.104760051281974
+linguistics basics,recommendation system,1,0
+natural language processing intro,knowledge representation,1,-0.286971037
+planning,adversarial search,1,0.0084568719877176
+semantic similarity,sentence simplification,1,-0.286147586
+transition based dependency parsing,training neural networks,0,0.136374036433945
+syntax,cky parsing,1,-0.082568949
+computational phonology,transliteration,0,-0.009528158
+evaluation of language modeling,computational phonology,0,0
+machine learning resources,finite state machines,0,-0.053554432
+document ranking,information extraction,0,0.0224369987471426
+probabilities,classification,1,-0.025662303
+nlp for biology,bio text mining,1,0.210833074535447
+linguistics basics,text generation,1,-0.03344375
+parsing,neural parsing,1,-0.626929759
+machine learning resources,speech synthesis,1,-0.058963421
+natural language processing intro,machine translation,1,0.11559515838346
+natural language processing intro,named entity recognition,1,-0.249621123
+natural language processing intro,lexicography,1,-0.026246275
+text similarity,bio text mining,1,0.0567122830754849
+linguistics basics,lexicography,1,0.11690294370765
+computational phonology,gradient descent,0,0
+recurrent neural networks,neural turing machine,1,-0.432249971
+speech processing,matrix multiplication,0,0
+natural language processing intro,recommendation system,1,-0.018488621
+nlp for databases,feature learning,0,0
+Lagrange duality,reading comprehension,0,0
+feature learning,lexical semantics,0,0.0059046722560081
+recursive neural networks,agent-based view of ai,0,0.0106495240041583
+crawling the web,planning,0,0
+evaluation of dependency parsing,genetic algorithms,0,0.0118555979093464
+probabilistic grammars,cross entropy,0,0
+linguistics basics,word embedding,1,-0.013573263
+machine translation techniques,named entity recognition,0,-0.329096724
+relation extraction,social media analysis,1,-0.00674257
+phrase based machine translation,part of speech tagging,0,-0.264370096
+probabilities,structured learning,1,-0.077679356
+spectral clustering,semi-supervised learning,0,-0.01490857
+image retrieval,Mixture Models,0,0
+social network extraction,scientific article summarization,0,-0.024541317
+transition based dependency parsing,neural networks,0,0.0697779114489591
+uncertainty,calculus,0,0.0381669136465197
+calculus,newton method,1,-0.104230447
+monte carlo methods,tsne,0,-0.007113603
+statistical part of speech tagging,earley parsing,0,-0.000131128
+kernel function,evaluation of text classification,0,0
+linear algebra,structured sparsity,1,-0.01600984
+question answering,Visual QA,1,0
+semi supervised learning,recursive neural networks,0,0.0086669591402623
+question answering,evaluation of question answering,1,0
+knowledge representation,predicate logic,1,0.114831241425598
+information extraction,social network extraction,1,-0.000205281
+Mixture Models,expectation maximization algorithm,1,-0.017905556
+natural language processing intro,kernels,1,0
+natural language processing intro,semantic parsing,1,-0.063649613
+linguistics basics,computational phonology,1,-0.009473453
+k means,monte carlo methods,0,0.0079655927684825
+text similarity,text mining,1,0.0567122830754849
+Gaussian graphical models,Mixture Models,1,0
+AlphaGo,finite state transducers,0,-0.005080544
+nlp and vision,others,0,0
+probabilistic grammars,a* search,0,0
+word embedding variations,machine learning resources,0,0.418335494564923
+regularization,logic and reasoning,0,0
+monte carlo tree search,AlphaGo,1,-0.002478138
+latent variable models,entropy,0,0
+reinforcement learning,robotics,1,0.0669386608600321
+semantic similarity,word sense disambiguation,1,0.0494827253377625
+syntax based machine translation,kullback leibler divergence,0,-0.002367572
+shallow parsing,Autoencoders,0,0.0544382903319156
+uncertainty,robotics,1,0.0075509243768956
+singular value decomposition,Principal Component Analysis,1,-0.013252492
+neural language modeling,inference,0,0.031414571311025
+linguistics basics,context free grammars,1,0.0396187740117355
+vector representations,linear regression,0,0.318937429067724
+toolkits for information retrieval,text mining,1,0.397482256834181
+predicate logic,probabilities,0,-0.019101576
+machine learning resources,kernel function,1,-0.129207968
+semantic similarity,automated essay scoring,1,-0.183109623
+text summarization,neural summarization,1,0
+nlp for databases,stack lstm,0,0
+Mean Field Approximation,decision trees,0,0.0160975053675682
+feature learning,Manifold Learning,1,-0.021414831
+calculus,Message Passing,0,0.0009236966537114
+discourse analysis,collaborative filtering,0,0
+machine translation,neural machine translation,1,0.0735814478533695
+Dirichlet Processes,Canonical Correlation Analysis,0,0.0517755262158245
+loss function,Variations of GANs,1,0.120434029644608
+gibbs sampling,newton method,0,0.0299766003818868
+robotics,robotic locomotion,1,0.0164684064163533
+natural language processing intro,penn treebank,1,0.159061146963431
+parsing,gated recurrent units,0,-0.022512241
+matrix multiplication,Message Passing,1,-0.004096475
+edit distance,Markov Random Fields,0,-0.002809256
+earley parsing,others,0,0
+vector representations,text mining,1,-0.04662091
+finite state transducers,multi-modal learning,0,0.0050805444798602
+random walks and harmonic functions,relation extraction,1,0
+learning,neural question answering,0,0.0029841940757903
+semi supervised learning,latent dirichlet allocation,0,0.0505273103748582
+multi-agent systems,finite state transducers,0,-0.016552547
+vector representations,generative adversarial networks,0,0.177259915892952
+word embedding variations,Variable Elimination,0,0.0026114201426404
+planning,Gaussian graphical models,0,0
+machine learning resources,loss function,1,-0.213028847
+KKT conditions,graphical models,0,-0.002078373
+semantic similarity,language identification,0,-0.136378759
+text similarity,data structures and algorithms,0,0.0286014719468875
+monte carlo methods,particle filter,1,-0.043572413
+classic parsing methods,semantic parsing,1,0.0090179096177733
+neural networks,syntaxnet,1,0.0111201614882475
+syntax,named entity recognition,0,-0.05260252
+natural language processing intro,automated essay scoring,1,-0.278462633
+loss function,speech processing,1,-0.027339142
+calculus,mathematical models,1,-0.108691295
+syntax,syntaxnet,1,-0.104960586
+lexical semantics,thesaurus-based similarity,1,0
+caption generation,others,0,0
+python,preprocessing,1,0
+programming languages,tools for dl,1,-0.076496367
+machine translation,machine translation techniques,1,0
+machine learning resources,tsne,1,-0.024332697
+semantic similarity,relation extraction,1,-0.110420146
+linguistics basics,event detection,1,0
+highway networks,speech processing,0,0.0009323708841075
+sentence representations,search engines,0,0.0066013049507092
+neural summarization,singular value decomposition,0,0.0147457663904487
+probabilities,bayes theorem,1,-0.043628343
+linear algebra,latent variable models,1,0
+q learning,Meta-Learning,0,-0.034870286
+word distributions,character level language models,1,0.282445510496283
+speech processing,random walks and harmonic functions,0,0.0194420908083854
+graph-based nlp,pagerank,1,0
+logic and reasoning,context free grammar,0,-0.007905809
+calculus,document ranking,0,0.0063077857528573
+structured learning,recommendation system,1,0.0644848461214425
+ResNet,predicate logic,0,0
+chomsky hierarchy,computation theory,1,-0.022905955
+deep Q-network,computational phonology,0,0
+random walks,harmonic functions,1,-0.026097231
+kernel function,Visual QA,0,0
+tree adjoining grammar,Autoencoders,0,0
+classification,log-linear models,0,0
+word embedding,syntaxnet,1,0.281291877842144
+part of speech tagging,syntaxnet,1,0.463282810354239
+deep learning tools,context free grammar,0,0.0021275692988133
+thesaurus-based similarity,propositional logic,0,0
+text to speech generation,wordnet,0,-0.197674593
+text similarity,scientific article summarization,0,0
+summarization evaluation,generative adversarial networks,0,0.0230254376238204
+others,activation functions,0,0
+convolutional neural networks,semantic role labeling,0,-0.083783907
+probabilities,Meta-Learning,1,0
+linear algebra,spectral methods,1,-0.115565871
+memory networks,pointer networks,0,-0.171160428
+structured learning,logic and reasoning,0,0.0157778236201473
+linguistics basics,chomsky hierarchy,1,0.0244679308074088
+structured learning,context free grammars,1,0.0120727151252896
+machine translation,noisy channel model,1,-0.276623351
+heuristic search,multi-modal learning,0,0.0166667030182882
+latent variable models,latent dirichlet allocation,1,0
+natural language processing intro,semantic role labeling,1,-0.381878146
+syntax,Hilbert Space,0,0
+word distributions,word embedding,1,0.142628774865812
+loss function,machine learning resources,1,0.213028846820707
+kernel function,Gaussian graphical models,0,0
+deep learning introduction,speech signal analysis,0,0.0078861227283896
+part of speech tagging,course introduction,1,0
+seq2seq,evaluation of question answering,0,0.175509790612339
+search,heuristic search,1,0
+statistical parsing,a* search,0,0
+Dirichlet Processes,document ranking,0,0
+calculus,Mixture Models,1,-0.024542203
+parsing,event detection,1,-0.021042683
+probabilities,statistical parsing,1,-0.034526453
+probabilities,mathematical models,1,-0.044654053
+multi-modal learning,evaluation of text classification,0,0.007757613904183
+Variable Elimination,morphology and lexicon,0,0
+structured learning,vector semantics,1,-0.009770927
+search engines,others,0,0
+evaluation of dependency parsing,language modeling,0,0.321601793611829
+linguistics basics,spelling correction,1,0
+finite state machines,finite state transducers,1,-0.302666174
+social media analysis,word embedding variations,0,0.0145098997227743
+heuristic search,speech recognition,0,0.0593556906578014
+nlp for databases,machine learning resources,0,0.0033079931927831
+learning,perceptron,0,-0.006606462
+vector semantics,context free grammars,1,0
+probabilities,Manifold Learning,1,-0.017945821
+training neural networks,graph convolutional networks,1,-0.261134612
+probabilities,monte carlo tree search,1,-0.048166421
+shift-reduce parsing,transition based dependency parsing,1,0.0146376634807004
+convolutional neural network,neural question answering,1,-0.033303595
+syntax,penn treebank,1,-0.508666403
+multi-agent systems,uncertainty,0,0.0102662239579441
+neural networks,training neural networks,1,0.179173899997117
+gradient descent,programming languages,0,0.0064491828796734
+word distributions,context free grammars,1,0.0139628119907756
+linear algebra,Principal Component Analysis,1,-0.035115955
+dimensionality reduction,Manifold Learning,1,-0.046666716
+speech processing,probabilistic grammars,0,0.0023592792439115
+natural language processing intro,word embedding,1,-0.052860598
+first-order logic,recurrent neural networks,0,-0.011239819
+calculus,spectral methods,1,-0.026833295
+transliteration,evaluation of dependency parsing,0,-0.011633279
+predicate logic,speech synthesis,0,-0.006401622
+information retrieval,search engines,1,0.0432557541359854
+summarization evaluation,citation networks,0,0.0036305221135645
+generative adversarial networks,syntaxnet,0,0.0212695514047419
+penn treebank,syntaxnet,1,0.135440117542182
+machine learning resources,random walks and harmonic functions,1,-0.290610269
+Mixture Models,finite state transducers,0,0
+calculus,recursive neural network,1,-0.012480545
+summarization evaluation,Lagrange duality,0,0
+discourse analysis,evaluation of language modeling,0,-0.01178281
+document ranking,beam search,0,0
+linguistics basics,course introduction,1,0
+neural networks,neural language modeling,1,0.0394021140812562
+context free grammars,social network extraction,0,-0.001764863
+greedy algorithms,robotics,0,0.0296546356530729
+computer vision,nlp and vision,1,-0.010545577
+training neural networks,pointer networks,1,-0.295436105
+linguistics basics,nlp for the humanities,1,-0.028752806
+linear algebra,Variations of GANs,1,-0.009018376
+random walks and harmonic functions,weakly-supervised learning,1,-0.016461956
+semi-supervised learning,graph convolutional networks,1,0.419930998144304
+tools for dl,shift-reduce parsing,0,0
+dimensionality reduction,singular value decomposition,1,0.0961280089297035
+structured learning,classification,0,0.0322684167919566
+probabilities,Dirichlet Processes,1,-0.181212803
+word embedding variations,multilingual word embedding,1,0
+regularization,structured learning,0,0.162864447751457
+penn treebank,first-order logic,1,0.0040796924805072
+machine translation,syntax based machine translation,1,0
+Kernel Graphical Models,Variable Elimination,0,-0.147309117
+graphical models,Markov Random Fields,1,-0.034829867
+natural language processing intro,feature selection,1,-0.089352882
+speech signal analysis,parsing evaluation,0,-0.008639154
+neural networks,neural question answering,1,0.0425857577389952
+bayesian network,neural parsing,0,-0.06640223
+linguistics basics,relation extraction,1,0
+morphology and lexicon,query expansion,1,-0.061927113
+vector representations,bio text mining,1,-0.04662091
+nlp for the humanities,speech recognition,0,0.454580336036537
+natural language processing intro,entailment,1,-0.020845651
+social network extraction,citation networks,1,-0.014186875
+vector semantics,document representation,1,0.0403484603865505
+nlp for the humanities,State Space Models,0,-0.043296027
+sentiment analysis,social media analysis,1,-0.064204193
+social network extraction,bagging,0,0
+evaluation of dependency parsing,machine translation techniques,0,0.458214907407384
+word distributions,topic modeling,1,-0.075017897
+loss function,Canonical Correlation Analysis,0,0.006462136826608
+structured learning,data structures,0,0.0112317694666809
+vector representations,lexicography,0,0.00689206934262
+multi-agent systems,conditional probability,0,0.0025820384720175
+speech processing,speech synthesis,1,0.107310854514176
+random walks and harmonic functions,Dirichlet Processes,0,-0.208077861
+structured learning,speech recognition,0,0.262368318245012
+tokenization,computation theory,0,0
+structured learning,word embedding,1,-0.209548948
+search,logic and logical agents,1,0
+word distributions,vector representations,1,0.215401643424464
+neural networks,neural parsing,1,-0.069777911
+normalization,monte carlo methods,0,0
+expectation maximization algorithm,transition based dependency parsing,0,-0.065864206
+optimization,newton method,1,-0.167265019
+Mixture Models,Variations of GANs,0,-0.007865984
+linguistics basics,discourse analysis,1,0.136493560879929
+knowledge representation,graph-based nlp,0,-0.080711512
+ResNet,computational phonology,0,0
+dimensionality reduction,Principal Component Analysis,1,0.121074189577153
+natural language processing intro,edit distance,1,-0.109403716
+evaluation of text classification,sentiment analysis,1,0.302820079603744
+discourse parsing,vector representations,0,-0.022459941
+recurrent neural networks,parsing evaluation,0,-0.009552513
+cky parsing,deep Q-network,0,0.101356553363273
+natural language processing intro,hidden markov models,0,0.0708076839288433
+chinese nlp,course introduction,0,0
+python,entropy,0,-0.000627004
+search,game playing in ai,1,0
+multi-agent systems,greedy algorithms,0,0.015353697195169
+chinese nlp,automated essay scoring,1,-0.278462633
+nlp for biology,neural turing machine,0,0.075425382331712
+natural language processing intro,information extraction,1,-0.205400805
+memory networks,k-nn,0,0.212180294234075
+long short term memory networks,neural question answering,1,0.0757514157041322
+bootstrapping,summarization evaluation,0,-0.008111358
+latent variable models,language identification,0,0
+learning,stack lstm,0,-0.00108274
+statistical part of speech tagging,multi-task learning,0,0.0185675987676523
+dimensionality reduction,multilingual word embedding,0,-0.264538144
+others,long short term memory networks,0,0
+parsing,shallow parsing,1,-0.705019439
+dimensionality reduction,tsne,1,0.016833249336989
+machine learning resources,logistic regression,1,0.0920185666570559
+text similarity,finite state machines,0,0
+planning,radial basis function network,0,0
+dependency parsing,transition based dependency parsing,1,0
+parsing,semi supervised learning,1,-0.050560078
+logic and logical agents,agent-based view of ai,1,0
+Naive Bayes,word sense disambiguation,0,-0.068491369
+planning,lexicography,0,0
+machine learning resources,semi-supervised learning,1,-0.719160104
+context free grammar,context sensitive grammar,1,-0.03634396
+linguistics basics,knowledge representation,1,0
+q learning,lexical semantics,0,0.0030549145274361
+semi supervised learning,parts of speech,0,0.010757179808633
+nlp for the humanities,singular value decomposition,0,0.0169484432274389
+multi-agent systems,game playing in ai,1,-0.006896551
+latent variable models,convolutional neural networks,0,-0.00902831
+structured learning,automated essay scoring,1,-0.015058368
+optimization,dual decomposition,1,-0.31244741
+convolutional neural network,mathematical models,0,-0.005592527
+classic parsing methods,Mixture Models,0,0
+tokenization,syntax,0,0
+syntax,shift-reduce parsing,1,-0.062253098
+probabilities,recursive neural network,1,-0.021590402
+kernels,Markov Random Fields,0,0
+word distributions,language modeling,1,0.151465134898874
+linguistics basics,Sequence to sequence,1,0
+recurrent neural networks,lexicalized parsing,0,-0.044895515
+machine learning resources,k means,1,-0.205749817
+search,uncertainty,1,-0.002354225
+preprocessing,predicate logic,0,0.0305035839264179
+latent variable models,expectation maximization algorithm,1,0
+first order logic,predicate logic,1,0
+vector semantics,unlexicalized parsing,0,0.151018936352946
+linguistics basics,feature selection,1,0
+Message Passing,data structures,0,0.0692232507790524
+training neural networks,phonetics,0,-0.009664721
+Unsupervised learning,logistic regression,0,0.423724959748071
+machine learning resources,autonomous cars,1,0.0530436025521605
+parts of speech,penn treebank,1,-0.005958971
+semi supervised learning,discourse parsing,0,0.207227772178377
+policy gradient methods,planning,0,-0.013600978
+linear algebra,dimensionality reduction,1,-0.036151396
+Manifold Learning,tools for dl,0,0
+Meta-Learning,machine translation,0,0
+hidden markov models,course introduction,1,0
+optimization,Lagrange duality,1,-0.139651885
+deep learning introduction,neural machine translation,1,-0.541792296
+planning,game playing in ai,1,-0.001963305
+entropy,nlp for the humanities,0,0
+backpropagation,information retrieval,0,0.0483842023049908
+semi-supervised learning,neural networks,1,0.121497614713928
+named entity recognition,expert systems,0,0.0171612443549472
+noisy channel model,semi supervised learning,0,-0.006244246
+seq2seq,Belief Propagation,0,-0.013207509
+structured sparsity,one-shot learning,0,0
+natural language processing intro,noisy channel model,1,-0.335589937
+chinese nlp,grammar checker,1,-0.320422562
+sequence classification and conditional random fields,deep learning tools,0,0.387171493505239
+parsing,parsing evaluation,1,-0.401979985
+convolutional neural networks,graph convolutional networks,1,-0.1382309
+vector representations,word embedding,1,-0.141577279
+stack lstm,parsing,0,0.0376604648228151
+semi supervised learning,first-order logic,1,0.0106466182545074
+random walks and harmonic functions,Unsupervised learning,1,-0.007297804
+thesaurus-based similarity,structured learning,0,0
+predicate logic,classification,0,-0.027125327
+linguistics basics,kernels,1,0
+sentence representations,syntaxnet,0,0.0793925314896998
+linear algebra,Manifold Learning,1,-0.036468243
+linguistics basics,grammar checker,1,-0.02960337
+text summarization,training neural networks,0,0.0860484423255271
+natural language processing intro,text mining,1,-0.02203838
+capsule networks,KKT conditions,0,0
+beam search,neural summarization,1,0.0089611298636711
+dimensionality reduction,deep learning tools,0,0.002017472348315
+mathematical models,morphology and lexicon,0,0.0045498774479937
+evaluation of text classification,autonomous cars,0,0.0430579399813564
+information retrieval,document ranking,1,-0.304466555
+information retrieval,State Space Models,0,-0.029714925
+one-shot learning,others,0,0
+machine translation,the ibm models,1,-0.0049385
+loss function,latent variable models,1,-0.127981735
+nlp for databases,logic and logical agents,0,0.0029638507141811
+seq2seq,tools for dl,0,-0.0191166
+shallow parsing,agent-based view of ai,0,0.0133858735237547
+linguistics basics,language identification,1,-0.02872172
+monte carlo methods,latent dirichlet allocation,1,0.0054301041919514
+linear algebra,semantic similarity,0,-0.003876113
+structured learning,text mining,1,0.0263424676274468
+clustering,Mixture Models,1,0
+kernel function,social media analysis,0,0
+natural language processing intro,graph-based nlp,1,-0.409593212
+gibbs sampling,natural language processing intro,0,0.0565348229066989
+Belief Propagation,statistical parsing,0,-0.025593683
+latent variable models,topic modeling,1,-0.004852657
+machine translation techniques,first order logic,0,0.0107083836197735
+logic and logical agents,expert systems,1,0.006672450080159
+latent variable models,word sense disambiguation,0,-0.009148974
+machine learning resources,linear regression,1,0.0915713816597777
+backpropagation,Autoencoders,1,0.163761056132294
+activation functions,ResNet,0,0
+natural language processing intro,semantic similarity,1,-0.099116992
+generative and discriminative models,multi-modal learning,0,-0.570108223
+natural language processing intro,sentence simplification,1,-0.409997596
+graphical models,others,0,0
+structured sparsity,predicate logic,0,0.0170792426764355
+vector semantics,automated essay scoring,1,0.0819097582005781
+computation theory,question answering,0,-0.013439846
+machine learning resources,spectral clustering,1,-0.18111761
+evaluation of question answering,text to speech generation,0,0.353954214292484
+wordnet,lexical semantics,1,0.0155508051189538
+attention models,evaluation of dependency parsing,0,-0.066980322
+planning,neural language modeling,0,0
+probabilistic grammars,logic and reasoning,0,0.0068825784984552
+variational bayes models,cky parsing,0,-0.006179208
+latent semantic indexing,Naive Bayes,0,0.0270449187342963
+learning,sequence classification and conditional random fields,0,-0.012628639
+sentence representations,log-linear models,0,0.0066013049507092
+informed search,neural networks,0,-0.012619537
+natural language processing intro,bio text mining,1,-0.02203838
+random walks and harmonic functions,scientific article summarization,1,0
+Principal Component Analysis,Manifold Learning,1,-0.097176067
+structured learning,feature selection,0,-0.175917621
+probabilities,Naive Bayes,1,-0.169655082
+machine learning resources,Meta-Learning,1,-0.067903365
+nn sequence parsing,clustering,0,0
+linguistics basics,sentence boundary recognition,1,-0.00717659
+generative adversarial networks,Variations of GANs,1,0
+neural parsing,automated essay scoring,0,0.019719578259882
+calculus,structured sparsity,1,-0.054206956
+loss function,social network extraction,0,-0.00323217
+linear algebra,State Space Models,1,-0.037134904
+n-gram models,word distributions,1,0.20611537830729
+linguistics basics,semantic similarity,1,-0.015669499
+word distributions,clustering,0,0
+genetic algorithms,neural parsing,0,-0.011855598
+language modeling,neural language modeling,1,0
+text generation,computational phonology,0,0
+graph-based nlp,citation networks,1,0
+natural language processing intro,context free grammars,1,-0.023789165
+one-shot learning,structured sparsity,0,0
+finite state transducers,adversarial search,0,0.012857690685623
+machine learning resources,word embedding,1,-0.418335495
+linguistics basics,sentence simplification,1,-0.028842887
+parsing,dependency parsing,1,-0.626929759
+random forest,learning,0,0.008350925927217
+context free grammars,neural parsing,0,-0.030856177
+Unsupervised learning,reinforcement learning,1,0.0776531749122008
+maximum likelihood estimation,Autoencoders,1,-0.008080097
+convolutional neural networks,variational autoencoders,0,-0.425553222
+probabilities,course introduction,1,0
+computation theory,particle filter,0,-0.024831847
+predicate logic,word segmentation,0,-0.030654289
+AlphaGo,text generation,0,-0.026328343
+linguistics basics,query expansion,1,-0.053802855
+recurrent neural networks,gated recurrent units,1,-0.224722812
+Markov chains,probabilistic context free grammars,0,-0.039154505
+machine translation,morphology and semantics in machine translation,1,-0.020751759
+logic and logical agents,word embedding variations,0,0
+thesaurus-based similarity,Autoencoders,0,-0.001827352
+Canonical Correlation Analysis,discourse parsing,0,0.0143998992591534
+linguistics basics,word segmentation,1,-0.056545637
+sentence representations,information extraction,1,0.0763165352770132
+semantic similarity,thesaurus-based similarity,1,-0.399714843
+summarization evaluation,search engines,0,0.0307128890754157
+bidirectional recurrent neural networks,ResNet,0,0
+natural language processing intro,parsing,1,0.223870628505679
+text similarity,information extraction,1,0.028651033753691
+classic parsing methods,shift-reduce parsing,1,-0.129524221
+sentence representations,text mining,1,0.078083149054646
+data structures,recursive neural network,0,-0.015490324
+semi-supervised learning,Gaussian graphical models,0,0
+discourse model,dependency syntax,0,-0.254806659
+context free grammar,cky parsing,1,-0.030856177
+natural language processing intro,text generation,1,-0.191694632
+vector semantics,kernels,1,0
+structured learning,kernels,1,0
+data structures and algorithms,syntax,0,0.0184293679012436
+evaluation of text classification,relation extraction,1,-0.091402774
+parsing,syntaxnet,1,0
+information retrieval,text mining,1,-0.052883365
+Lagrange duality,linear programming,0,0.079397176984152
+speech synthesis,handwriting recognition,0,-0.048755488
+singular value decomposition,monte carlo methods,0,0.0038798310117011
+computer vision,information retrieval,0,-0.002693361
+vector representations,lexical semantics,0,0.0132434636338927
+vector semantics,bio text mining,1,0.190602963804847
+tools for dl,multi-agent systems,0,0
+Canonical Correlation Analysis,question answering,0,-0.027380792
+linguistics basics,bio text mining,1,-0.01368056
+first-order logic,discourse model,0,-0.004909987
+neural summarization,scientific article summarization,1,0.0080928047441712
+speech signal analysis,gated recurrent units,0,-0.068759027
+speech signal analysis,constraint satisfaction,0,0.0037676060179892
+deep learning tools,handwriting recognition,0,-0.252590669
+knowledge graph,recurrent neural networks,0,0.0250575445679255
+vector semantics,tsne,1,0.0064592961929873
+transliteration,recurrent neural networks,0,-0.002923415
+sentence representations,text summarization,1,0.0807385423842235
+weakly-supervised learning,machine translation techniques,0,0.126886032804024
+planning,logic and logical agents,1,-0.001467808
+text to speech generation,seq2seq,0,-0.518436677
+probabilities,hidden markov models,1,-0.110396228
+discourse parsing,maximum likelihood estimation,0,-0.02311853
+k-nn,informed search,0,0.0088119316205166
+object detection,neural summarization,0,-0.017436097
+character level language models,problem solving and search,0,0.0064809025638982

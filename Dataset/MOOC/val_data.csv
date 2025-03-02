@@ -1,0 +1,868 @@
+A,B,result
+Suffix tree,String searching algorithm,1
+Database normalization,Scalability,0
+Artificial intelligence,Approximation,1
+Data analysis,Conditional probability,0
+Polymorphism (computer science),Computer science,1
+Relational database,Combinatorics,1
+Cryptanalysis,Concurrent computing,0
+Ray tracing (graphics),Computer graphics,1
+Autonomous robot,Robot,1
+Thread (computer science),Communication,0
+Introduction to Algorithms,Scalability,0
+Haskell (programming language),Data structure,1
+Approximation algorithm,Computability,1
+Bayesian network,Monte Carlo method,0
+Security,Martingale (probability theory),0
+Parallel algorithm,Robot,0
+Hidden Markov model,Computer science,1
+Information theory,Asymptotic analysis,0
+Model of computation,Tensor,0
+Ray tracing (graphics),Computer,1
+Java (programming language),Regular expression,1
+Kernel (computing),Dynamic programming,0
+String (computer science),Data type,1
+Hash table,Calculus,0
+Concurrency (computer science),Computer programming,1
+Theory of computation,Graphics,0
+Profiling (computer programming),Query language,0
+Interaction design,Arithmetic,0
+Machine translation,Artificial intelligence,1
+Graph theory,Mathematics,1
+Statistical inference,Computational chemistry,0
+Image analysis,Computer science,1
+Modular programming,Bayesian,0
+Hidden Markov model,Numerical analysis,1
+Sequence alignment,Software engineering,0
+Personal computer,Feature extraction,0
+Lexical semantics,Syntax,1
+Compiler optimization,Motion planning,0
+Assembly language,Malware,0
+C++,Computer science,1
+Graph coloring,Algorithm,1
+Functional programming,Hidden line removal,0
+Stochastic process,Firewall (computing),0
+Traffic analysis,Information assurance,0
+Internet,OSI model,1
+Java (programming language),Digital electronics,1
+Computer programming,Integer,1
+Monad (functional programming),First-order logic,0
+Distributed computing,Computing,1
+Algorithm,Database design,0
+Software engineering,Telecommunications network,0
+Linear programming,Abstraction (computer science),1
+Lazy evaluation,Python (programming language),0
+Software engineering,Object-oriented programming,1
+Imperative programming,Discrete mathematics,1
+Database design,Data structure,1
+Software development,Software design,1
+Semantics,Computational geometry,0
+Transaction processing,Database,1
+Data mining,Mathematical model,0
+Information security,Inheritance (object-oriented programming),0
+Software testing,Memory hierarchy,0
+Undecidable problem,Lazy evaluation,0
+Gradient descent,Iterative method,1
+Security,Sparse matrix,0
+Software testing,Software design,1
+Stochastic,Type system,0
+Discrete mathematics,Polynomial,0
+Bayesian,NP (complexity),0
+Software testing,Computer science,1
+Approximation algorithm,Problem solving,1
+Markov chain,Application programming interface,0
+Computer vision,Geometry,1
+Atomicity (database systems),Hidden line removal,0
+Public-key cryptography,Combinatorics,1
+NP-complete,Wireless sensor network,0
+Computational problem,Number theory,1
+Computer vision,Programming language,1
+Data mining,Software testing,0
+Concurrency (computer science),Compiler,0
+Semidefinite programming,Communications protocol,0
+Integer,Polymorphism (computer science),0
+Machine translation,Computer,1
+Question answering,Programming language,1
+Monte Carlo method,Algorithm,1
+Sentiment analysis,Object (computer science),0
+Programming paradigm,Foundations of mathematics,1
+Finite element method,Linear system,0
+Graphical user interface,3D computer graphics,0
+Cryptography,Polynomial,1
+Mechanical engineering,Parallel algorithm,0
+Mathematics,Sufficient statistic,0
+Probability theory,Bayesian,0
+Expert system,Mathematics,1
+Random graph,Interface (computing),0
+Visualization (computer graphics),Computational chemistry,0
+Analysis of algorithms,Probability theory,1
+Run time (program lifecycle phase),Logic,1
+SQL,Foundations of mathematics,1
+Functional programming,Arithmetic,1
+Ordinary differential equation,Virtual memory,0
+Suffix tree,Operating system,0
+Visualization (computer graphics),Iterative method,0
+Relational model,Data (computing),1
+Problem solving,Arithmetic,0
+Finite-state machine,Theory of computation,1
+Haskell (programming language),Variable (computer science),1
+Java (programming language),Artificial intelligence,0
+Geometry,Complexity,0
+Artificial intelligence,"Best, worst and average case",0
+Recommender system,Uncertainty,0
+Message Passing Interface,Inter-process communication,1
+Sentiment analysis,Probability,1
+Sequence alignment,Web service,0
+Natural language,Modular arithmetic,0
+Coding theory,Suffix tree,0
+Java (programming language),Kernel (computing),0
+Linear programming,Mathematics,1
+Computer science,Logic,1
+Genetic algorithm,Peer-to-peer,0
+B-tree,Linear system,0
+Programming language,Approximation,0
+Software testing,Decision theory,0
+Structured programming,Relational algebra,0
+Model checking,Programming language,0
+B-tree,Probability,0
+Web server,Rendering (computer graphics),0
+Numerical analysis,Polynomial,1
+Logic,Computer network,0
+C (programming language),Computer,1
+Uncertainty,List of undecidable problems,0
+Cluster analysis,Profiling (computer programming),0
+Tensor,Recursion,0
+Mobile device,Computer,1
+Computational problem,Data (computing),0
+Data mining,Computer multitasking,0
+Decision theory,Operating system,0
+Index (database),Computational complexity theory,1
+Graph (mathematics),Digital electronics,0
+Python (programming language),High-level programming language,1
+Database normalization,Question answering,0
+Programming language,Automata theory,1
+Database design,Mathematics,0
+Coding theory,Foundations of mathematics,1
+Context-free grammar,Computer programming,1
+Object-oriented programming,Design pattern (computer science),1
+Least squares,Floating point,1
+Scope (computer science),Neural network,0
+Operating system,Synchronization,0
+Complexity,3D computer graphics,0
+Logic programming,Mathematics,1
+Newton's method,Eigenvalues and eigenvectors,1
+Integral,Support vector machine,0
+Recursion,Logic,1
+Software design,Compiler,1
+Combinatorics,Input/output,0
+Ray tracing (graphics),Analysis of algorithms,1
+Automatic programming,Number theory,1
+Programming paradigm,Mathematics,1
+Amortized analysis,Data structure,1
+Computational geometry,Combinatorics,1
+OSI model,Object (computer science),0
+Peer-to-peer,Computer science,1
+Tensor,Database system,0
+Sentiment analysis,Performance tuning,0
+3D computer graphics,Mathematics,1
+Regular language,Computability,1
+Software design,Profiling (computer programming),0
+Artificial intelligence,Combinatorics,1
+Formal language,Graph theory,1
+Object (computer science),Graph theory,1
+Modular programming,Scope (computer science),1
+Predicate logic,Perl,0
+Recursively enumerable set,Wavelet,0
+World Wide Web,Shortest path problem,0
+Computer programming,C++,0
+Turing machine,Formal methods,0
+Signal processing,Telecommunications network,0
+Hash table,Memory hierarchy,0
+Prediction,Recursion,0
+Modular programming,Internet,0
+Distributed algorithms,Mathematical induction,1
+Transaction processing,Arithmetic,1
+World Wide Web,Tensor,0
+Variable (computer science),Computer,1
+Random walk,Computer simulation,0
+Genetic algorithm,Polynomial,1
+Wavelet,Signal processing,1
+Semantics of programming languages,User interface,0
+Distributed algorithms,Arithmetic logic unit,0
+Stochastic,Arithmetic logic unit,0
+Distributed computing,Computational science,1
+Partial differential equation,Foundations of mathematics,1
+GPU,Central processing unit,1
+Ordinary differential equation,Algorithm,1
+Image,Human-computer interaction,0
+Recurrence relation,Formal methods,0
+Index (database),Data (computing),1
+Question answering,Finite difference,0
+File system,Formal methods,0
+Nonlinear system,Type system,0
+Correlation and dependence,Recursively enumerable set,0
+Newton's method,Floating point,1
+Computer architecture,Digital electronics,1
+Graphical model,Digital signature,0
+GPU,Multi-core processor,0
+MATLAB,Data structure,1
+Symbol table,Boundary value problem,0
+Integral,Randomization,0
+Feature extraction,Computer science,1
+Variable (computer science),Programming language,1
+Program optimization,Polymorphism (computer science),0
+Dynamic memory allocation,Computer,1
+CPU cache,Data analysis,0
+Index (database),Foundations of mathematics,1
+Web server,Arithmetic,1
+Shading,Nonlinear system,0
+Natural language,Embedded system,0
+Document classification,Mathematical optimization,1
+Computational learning theory,Data analysis,0
+Computer architecture,Combinational logic,0
+System programming,Geometric modeling,0
+Relational model,Pushdown automata,0
+Vector processor,Parallel computing,1
+3D computer graphics,Computer science,1
+Profiling (computer programming),Computability,1
+Feature extraction,Foundations of mathematics,1
+Functional programming,Discrete mathematics,1
+Automated theorem proving,Approximation,0
+Image processing,Computer programming,1
+Speech recognition,Number theory,1
+Model of computation,Reinforcement learning,0
+Formal methods,Recursion (computer science),0
+Round-off error,Eigenvalues and eigenvectors,1
+String searching algorithm,JavaScript,0
+Artificial intelligence,Computing,1
+Artificial intelligence,Foundations of mathematics,1
+Authentication,Nonlinear system,0
+Garbage collection (computer science),Random variable,0
+Unsupervised learning,Approximation algorithm,0
+Web search engine,Polynomial,1
+Computational learning theory,Control flow,0
+Information security,Object-oriented programming,0
+Computational chemistry,Computer programming,1
+Economics,Exponential family,0
+Computational chemistry,Bayesian,0
+Computational complexity theory,Computing,1
+Economics,Mathematical optimization,1
+Symbol table,Computer,1
+Fast Fourier transform,Computation,1
+Cryptography,Computational complexity theory,1
+Telecommunications network,Random variable,0
+Cryptanalysis,Pattern recognition,0
+Computer architecture,Bioinformatics,0
+Support vector machine,Iterative method,1
+Query language,Computer science,1
+Inheritance (object-oriented programming),Variable (computer science),1
+C++,Variable (computer science),1
+Bioinformatics,Turing machine,1
+Quantum computer,Memory management,0
+Concurrency control,Foundations of mathematics,1
+Computer architecture,Message passing,0
+Approximation algorithm,Foundations of mathematics,1
+Machine translation,Problem solving,1
+Quantum computer,Computational problem,1
+Theory of computation,Mechanical engineering,0
+Query language,Programming language,1
+Hidden Markov model,Mathematics,1
+Computability,Calculus of variations,0
+Speech recognition,Pattern recognition,0
+Inter-process communication,Monte Carlo method,0
+Probability theory,Mathematics,1
+Asymptotic analysis,Software development,0
+Sentiment analysis,Graph theory,1
+Graph coloring,Continuous function,0
+Inter-process communication,Operating system,1
+Monte Carlo method,Mathematical induction,1
+Asymptotic analysis,Cluster analysis,0
+Pattern matching,Digital signature,0
+Data (computing),Variable (computer science),0
+Programming language,Computer programming,1
+Computer vision,Mathematical optimization,1
+Programming style,Computational complexity theory,1
+Amortized analysis,Computer,1
+Algorithm design,Computer programming,1
+Parallel algorithm,Number theory,1
+Garbage collection (computer science),Motion capture,0
+Sparse matrix,Algorithm,0
+Processor register,Parallel computing,0
+Analysis of algorithms,Finite-state machine,1
+Finite element method,Kalman filter,0
+Scope (computer science),Computability,1
+Lisp (programming language),JavaScript,0
+Fast Fourier transform,Genetic algorithm,0
+Mathematical optimization,Polynomial,1
+Deadlock,Computing,1
+Mobile device,Internet Protocol Suite,0
+Computer security,Computer,1
+Scope (computer science),Variable (computer science),1
+Mechanical engineering,Mathematical optimization,0
+Theory of computation,Reason,0
+Nonlinear system,Compiler optimization,0
+Database normalization,Data (computing),1
+Firewall (computing),Information security,1
+Software design,Model of computation,0
+B-tree,Estimation theory,0
+Pattern matching,Data structure,1
+Linked list,Computational problem,0
+Mathematical induction,Quantum cryptography,0
+Uncertainty,OSI model,0
+Estimation theory,Dynamic memory allocation,0
+Atomicity (database systems),Complexity,0
+Public-key cryptography,Mathematics,1
+Embedded system,Machine translation,0
+Scope (computer science),Object-oriented programming,0
+Sufficient statistic,Data,1
+Dynamic programming,Combinatorics,1
+System call,Operating system,1
+Scope (computer science),Logic,1
+Graph coloring,Algorithm design,1
+Robotics,Computer programming,1
+Ray tracing (graphics),Scripting language,0
+Regular expression,Calculus,0
+Automated planning and scheduling,Internet Protocol Suite,0
+Firewall (computing),Sufficient statistic,0
+Social network,Computer software,0
+Polymorphism (computer science),Kalman filter,0
+Image analysis,Mathematics,1
+Estimation theory,Differential equation,0
+Software design,Scope (computer science),1
+Quantum cryptography,Query language,0
+Partial differential equation,Approximation,1
+Embedded system,Operating system,1
+Algorithm,Finite set,1
+Web search engine,Computability,1
+Java (programming language),Large deviations theory,0
+Public-key cryptography,Data,0
+Cluster analysis,Prediction,0
+Expert system,Reason,1
+Exponential family,Probability theory,1
+Scope (computer science),Programming style,0
+Data mining,Computing,1
+Mathematical optimization,Matrix (mathematics),1
+Formal grammar,Asymptotic analysis,0
+Logic programming,Logic,1
+Formal grammar,Application programming interface,0
+Automated planning and scheduling,Data,0
+CPU cache,Arithmetic,1
+Knowledge representation and reasoning,Computing,1
+Divide and conquer algorithm,Discrete mathematics,1
+Robotics,Computational complexity theory,1
+Transaction processing,Database management system,1
+Ordinary differential equation,Parsing,0
+Software engineering,Discrete mathematics,1
+String searching algorithm,Foundations of mathematics,1
+Artificial intelligence,Theory of computation,1
+Coding theory,Number theory,1
+Neural network,Iterative method,1
+Polymorphism (computer science),Data structure,1
+Linear algebra,Image,0
+Computer network,Computer,1
+Volume rendering,Economics,0
+Logic,Encryption,0
+Image processing,Graphical model,0
+Compiler,Arithmetic,1
+Stochastic process,Continuous function,1
+Distributed computing,Finite element method,0
+Decision theory,Computational learning theory,0
+Linear programming,Matrix (mathematics),1
+Public-key cryptography,Abstraction (computer science),1
+Congestion control,User interface design,0
+Model of computation,Mathematics,1
+Motion planning,Software engineering,1
+Automated theorem proving,Pattern matching,0
+Lexical analysis,Very long instruction word,0
+Semidefinite programming,NP (complexity),0
+Haskell (programming language),Recursion (computer science),1
+Index (database),Number theory,1
+Computer programming,Number theory,1
+Markov process,Atomicity (database systems),0
+Computer,Bioinformatics,0
+Estimation theory,Programmer,0
+Routing,Data,1
+ML (programming language),Computer,1
+Computing,Cloud computing,0
+Data structure,Computer science,1
+Interpolation,Matrix (mathematics),1
+Message passing,List of undecidable problems,0
+NP-complete,Iterative method,1
+Web service,Software testing,0
+Software engineering,Problem solving,1
+Graphical model,Computer,1
+Interpolation,Mathematics,1
+Assembly language,Computer architecture,1
+Model checking,Problem solving,1
+Abstraction (computer science),Data structure,1
+Sentiment analysis,Statistics,1
+Information theory,Computing,0
+Randomization,Computer security,0
+Computational geometry,Randomness,0
+Neural network,Probability,1
+Atomicity (database systems),Cryptanalysis,0
+Document classification,Computational complexity theory,1
+GPU,Lock (computer science),1
+Formal verification,Object (computer science),0
+Computational geometry,Computability,1
+Queue (data structure),Graphics,0
+Routing,Computer science,1
+User interface,Sentiment analysis,0
+Image processing,String (computer science),0
+Internet Protocol Suite,Data,1
+"Best, worst and average case",Computer science,1
+SQL,Computer science,1
+Computer programming,Computing,1
+Analysis of algorithms,Logic programming,0
+Neural network,Computer simulation,0
+Program analysis,3D modeling,0
+Logic programming,World Wide Web,0
+Programmer,Logic,1
+Mathematical induction,Mathematical proof,1
+Data mining,Algorithm design,1
+Theory of computation,Computer,1
+Model of computation,Computability,1
+Type system,Message Passing Interface,0
+Personal computer,User interface design,0
+Vector processor,Regular expression,0
+Complexity class,Theoretical computer science,1
+Programmer,Arithmetic,1
+Shortest path problem,Peer-to-peer,0
+Scheduling (computing),Operating system,1
+Machine learning,Reason,1
+Natural language processing,Analysis of algorithms,1
+Conditional probability,Part-of-speech tagging,0
+Public-key cryptography,Database,0
+3D modeling,CPU cache,0
+Mathematical optimization,Algorithm,1
+Network security,Data,1
+Firewall (computing),Computer science,1
+Digital electronics,Computational geometry,0
+Automated theorem proving,Semantics,0
+Application software,Arithmetic,1
+Embedded system,Digital electronics,1
+Synchronization,Personal computer,0
+Machine learning,Integer,1
+Signal processing,Processor register,0
+Information theory,Java (programming language),0
+Knowledge representation and reasoning,Data structure,1
+Halting problem,Mathematics,1
+Syntax,Natural language,1
+Concurrency control,Arithmetic,1
+Software development,Mathematics,1
+PSPACE,Computer science,1
+Unsupervised learning,Expected value,1
+Visualization (computer graphics),Computer science,1
+Packet switching,Computer,1
+Computational complexity theory,Multiplication,0
+Modular programming,Scripting language,0
+Compiler,Regular expression,1
+Type system,Eigenvalues and eigenvectors,0
+Mathematical optimization,Information security,0
+Model of computation,Polynomial,1
+Parallel computing,Probability theory,0
+Entropy,Information security,0
+Newton's method,Integral,0
+Linear algebra,Data analysis,0
+Coding theory,GPU,0
+Programming paradigm,Computer programming,1
+Software framework,Algorithm,1
+Packet switching,Divide and conquer algorithm,0
+Natural language processing,Syntax,1
+Halting problem,Inequality (mathematics),0
+Assembly language,Natural language,1
+Virtual memory,Memory hierarchy,1
+Parallel algorithm,Central processing unit,1
+Sparse matrix,Web service,0
+Recurrence relation,Approximation,0
+System call,Hidden Markov model,0
+Geometric modeling,Theoretical computer science,1
+Central processing unit,Vector processor,0
+Design of experiments,Software development,0
+Machine learning,Discrete mathematics,1
+Undecidable problem,Complexity,1
+NP (complexity),Foundations of mathematics,1
+Image,Sentiment analysis,0
+Logic programming,Number theory,1
+Database system,Expected value,0
+PageRank,Graph coloring,0
+Speech recognition,Cloud computing,0
+Traffic analysis,Exponential family,0
+Inter-process communication,Computer network,0
+Inheritance (object-oriented programming),Machine translation,0
+Vector processor,Network security,0
+Document classification,Discrete mathematics,1
+Object-oriented programming,Abstract data type,1
+Divide and conquer algorithm,Theoretical computer science,1
+Computability,Document classification,0
+Random graph,Shading,0
+Machine learning,Random variable,1
+Artificial intelligence,Computational complexity theory,1
+Motion planning,Gradient descent,0
+Variable (computer science),Central processing unit,0
+Regular language,Finite-state machine,1
+Database design,Database management system,1
+Software testing,Lexical semantics,0
+Traffic analysis,Signal processing,0
+Image processing,Computational science,1
+Parsing,Computation,1
+Neural network,Algorithm,1
+Artificial intelligence,Automata theory,1
+High-level programming language,Garbage collection (computer science),0
+CPU cache,Performance tuning,1
+Data warehouse,Data type,1
+Inter-process communication,Statistical inference,0
+Software framework,Sentiment analysis,0
+Program optimization,Combinatorics,1
+Lisp (programming language),Scope (computer science),1
+Index (database),Database,1
+Machine learning,Expected value,1
+Signal processing,Stochastic,0
+Database design,Relational model,1
+Data type,Performance tuning,0
+ML (programming language),Functional programming,1
+Newton's method,Microprocessor,0
+Round-off error,Algorithm,1
+Robotics,Computing,1
+Bayesian network,Higher-order function,0
+Software development,Differential equation,0
+Multi-core processor,Traffic analysis,0
+Robot,Interactivity,0
+Decision theory,hypothesis testing,1
+Image processing,Linear programming,0
+Machine learning,Algorithm,1
+System call,Speech recognition,0
+Data mining,Object (computer science),1
+Instruction set,Pattern matching,0
+Cloud computing,Computer,1
+"Best, worst and average case",Motion planning,0
+Hidden line removal,Combinatorics,1
+Recursively enumerable set,Theoretical computer science,1
+Distributed algorithms,Logic,1
+Automatic programming,Malware,0
+Web browser,Digital electronics,1
+Algorithm design,Discrete mathematics,1
+Concurrency (computer science),Input/output,1
+Fast Fourier transform,Automata theory,0
+Recursion (computer science),Discrete mathematics,1
+Recursively enumerable set,Computational problem,0
+Part-of-speech tagging,Natural language,1
+Firewall (computing),Atomicity (database systems),0
+Gradient descent,Arithmetic,1
+Parallel algorithm,Integer,1
+Software testing,Computability,1
+Formal language,Computational complexity theory,0
+Quantum cryptography,Algorithm,1
+NP (complexity),Design pattern (computer science),0
+Inequality (mathematics),Integer,1
+Natural language processing,Unsupervised learning,1
+Network security,Bioinformatics,0
+Control flow,Kernel (computing),0
+Fast Fourier transform,Object-oriented programming,0
+System call,Assembly language,0
+Program optimization,Mathematical induction,1
+Markov process,Probability theory,1
+Randomized algorithm,Computation,1
+Distributed algorithms,Computing,1
+Genetic algorithm,Computability,1
+Recursively enumerable set,Programming style,0
+Complexity class,Computation,1
+Poisson distribution,Introduction to Algorithms,0
+Random walk,Random variable,1
+Memory management,Operating system,1
+Assembly language,Foundations of mathematics,1
+Formal methods,Arithmetic,1
+Estimation theory,Data,1
+Memory hierarchy,Application programming interface,0
+Computer simulation,Foundations of mathematics,1
+Unsupervised learning,Computer programming,1
+Virtual reality,Algorithm,1
+Software framework,Computing,1
+Computer programming,Computer science,1
+Analysis of algorithms,Turing machine,1
+Economics,Turing machine,0
+Speech recognition,Statistical inference,1
+Natural language,Exponential family,0
+Modular arithmetic,Algebra,1
+Web search engine,Formal methods,0
+Public-key cryptography,Integer,1
+Computer programming,Shading,0
+Uncertainty,Bayesian network,0
+Computer simulation,Discrete mathematics,1
+Human-computer interaction,Atomicity (database systems),0
+Scope (computer science),Finite difference,0
+Computational geometry,Introduction to Algorithms,1
+Software engineering,Partial differential equation,0
+Poisson distribution,Denotational semantics,0
+hypothesis testing,User interface design,0
+Context-free language,MATLAB,0
+NP (complexity),Automata theory,1
+Recommender system,Internet Protocol Suite,0
+Database design,Recurrence relation,0
+OSI model,Kalman filter,0
+Software engineering,Abstract data type,1
+Economics,Floating point,0
+Higher-order function,Least squares,0
+Volume rendering,Computer graphics,1
+Statistical inference,Uncertainty,1
+Modular arithmetic,Formal methods,0
+Web search engine,Computation,1
+Program optimization,Statistical inference,0
+Recursion (computer science),Mathematical induction,1
+Cryptography,Performance tuning,0
+String (computer science),Software design,0
+Linear programming,Syntax,0
+Scientific modelling,Regular language,0
+Fast Fourier transform,Logic,1
+Randomization,Server (computing),0
+OSI model,Computer,1
+Assembly language,Bayesian,0
+Message Passing Interface,Undecidable problem,0
+Structured programming,Scientific visualization,0
+Big data,Discrete mathematics,1
+Undecidable problem,Computer science,1
+CPU cache,Cryptographic hash function,0
+Boundary value problem,Genetic algorithm,0
+Visualization (computer graphics),Communication,0
+Data type,Automata theory,1
+Volume rendering,Flow network,0
+Java (programming language),Computability,1
+Distributed computing,Atomicity (database systems),0
+Hidden Markov model,Ray tracing (graphics),0
+Central processing unit,Computer science,1
+Computer network,Communications protocol,1
+Dynamic programming,Computation,1
+Geometric modeling,Mathematics,1
+Cloud computing,NP-complete,0
+Artificial intelligence,Abstraction (computer science),1
+Scientific modelling,Martingale (probability theory),0
+Algorithm design,Sentiment analysis,0
+Atomicity (database systems),Computer science,1
+Cryptanalysis,Computability,1
+Concurrency control,Discrete mathematics,1
+Quantum cryptography,Modular arithmetic,1
+Computational chemistry,Computer multitasking,0
+Software engineering,MapReduce,0
+Imperative programming,Number theory,1
+Multi-core processor,Computing,1
+Object-oriented programming,Structured programming,1
+High-level programming language,Mathematics,1
+Programming paradigm,Pushdown automata,0
+Variable (computer science),Automata theory,1
+Software engineering,Abstraction (computer science),1
+Inequality (mathematics),Computer architecture,0
+Decision theory,Abstraction (computer science),1
+NP-complete,Computation,1
+Cluster analysis,Stochastic process,0
+Microcode,Arithmetic,1
+Software engineering,Theoretical computer science,1
+Random walk,Amortized analysis,0
+Information assurance,Information theory,0
+Machine learning,Polynomial,1
+Correlation and dependence,Abstract data type,0
+Natural language processing,Statistics,1
+System programming,C (programming language),0
+Semantics,Computational learning theory,0
+Programming style,Computer,1
+Fast Fourier transform,Computability,1
+Application programming interface,Computational complexity theory,1
+Structured programming,Telecommunications network,0
+3D computer graphics,Iterative method,1
+User interface,Robotics,0
+Complexity class,Mathematics,1
+Programmer,Stack (data structure),0
+C (programming language),Arithmetic,1
+Formal verification,Computer,1
+Reason,Denotational semantics,0
+Entropy,Data (computing),0
+Theoretical computer science,Parallel computing,0
+Part-of-speech tagging,Mathematics,0
+Virtual memory,Algorithm,0
+Structured programming,Computer,1
+Processor register,Array data structure,1
+String searching algorithm,Probability,0
+Microprocessor,Mathematical model,0
+Python (programming language),Assembly language,0
+Random graph,Model checking,0
+Dynamic programming,Logic,1
+Automated planning and scheduling,Programming language,1
+Rendering (computer graphics),Higher-order function,0
+PSPACE,Design pattern (computer science),0
+Lisp (programming language),Discrete mathematics,1
+Fast Fourier transform,Discrete mathematics,1
+Context-free grammar,Mathematics,1
+System call,Computer programming,1
+Automated planning and scheduling,Numerical analysis,1
+Semantics of programming languages,Discrete mathematics,0
+Recommender system,Algorithm,1
+Computational geometry,Algorithm,1
+JavaScript,Computer programming,1
+Higher-order function,Sparse matrix,0
+Very long instruction word,Computational geometry,0
+Image analysis,Design pattern (computer science),0
+Graphical user interface,Amortized analysis,0
+Distributed computing,Predicate logic,0
+Computational geometry,Computer,1
+Database,Discrete mathematics,1
+Motion capture,Algorithm design,1
+Object-oriented programming,High-level programming language,1
+PSPACE,Shading,0
+Hidden line removal,Theoretical computer science,1
+3D computer graphics,Digital signature,0
+Bayesian network,Recurrence relation,0
+Gradient descent,Computer science,1
+PSPACE,Interactivity,0
+Computational geometry,Design pattern (computer science),0
+System programming,Central processing unit,1
+Central processing unit,B-tree,0
+User interface design,Linked list,0
+Interactivity,Expert system,0
+Automated theorem proving,Bioinformatics,0
+Computer,Syntax,0
+Scripting language,Arithmetic,1
+Hidden Markov model,Encryption,0
+Sentiment analysis,Programming language,0
+Bioinformatics,Memory management,0
+Java (programming language),Logic,1
+Scalability,Inequality (mathematics),0
+Web server,Knowledge representation and reasoning,0
+Programming language,"Best, worst and average case",0
+Cryptographic hash function,Information security,1
+Monte Carlo method,Recommender system,0
+Probability theory,Algebra,1
+Software engineering,Data structure,1
+Type system,hypothesis testing,0
+Dynamic programming,Polynomial,1
+Computer software,Mobile device,0
+Sequence alignment,Message Passing Interface,0
+Congestion control,Linear programming,0
+Distributed computing,Central processing unit,1
+Geometric modeling,Iterative method,1
+Prolog,Recommender system,0
+Sufficient statistic,Parallel computing,0
+Model checking,Discrete mathematics,1
+3D computer graphics,Foundations of mathematics,1
+Probability,Social network,0
+Python (programming language),Computer science,1
+Image processing,Economics,0
+Scientific visualization,Algorithm design,1
+Virtual reality,Queue (data structure),0
+Perl,Hidden Markov model,0
+Computer vision,Pattern recognition,1
+Cryptography,Security,1
+Big data,Stochastic process,0
+Approximation algorithm,Computation,1
+Boundary value problem,Ordinary differential equation,1
+Mathematical optimization,Floating point,0
+Geometric modeling,Analysis of algorithms,1
+Finite-state machine,Computational science,0
+Python (programming language),Imperative programming,1
+NP (complexity),Computability,1
+Computer vision,Scientific modelling,0
+Machine learning,Arithmetic,1
+Neural network,Markov chain,1
+Computational geometry,Digital electronics,1
+Randomized algorithm,Foundations of mathematics,1
+Numerical analysis,Motion capture,0
+Authentication,Deadlock,0
+GPU,Computer science,1
+Sentiment analysis,Mobile device,0
+Quantum computer,Computability,1
+Python (programming language),Computational complexity theory,1
+Artificial intelligence,Matrix (mathematics),1
+Routing,Computer,1
+Sentiment analysis,Random graph,0
+Message Passing Interface,User interface design,0
+System programming,Arithmetic,1
+Mechanical engineering,Mathematics,0
+Imperative programming,Computer,1
+Newton's method,Generic programming,0
+Spanning tree,Database,0
+Pattern matching,Program analysis,0
+Mobile device,Digital electronics,1
+Matrix (mathematics),Perl,0
+Speech recognition,Machine learning,1
+Finite difference,Polynomial,1
+Vector processor,System programming,0
+Random walk,Personal computer,0
+Database design,Object (computer science),1
+NP (complexity),Computer,1
+Time complexity,Graph theory,1
+Expert system,Numerical analysis,1
+Abstraction (computer science),Mathematics,1
+Natural language processing,Markov chain,1
+Concurrency (computer science),Computing,1
+JavaScript,Data structure,1
+Stochastic process,Digital electronics,0
+Combinational logic,Denotational semantics,0
+Query optimization,Computer science,1
+Genetic algorithm,Number theory,1
+Recursively enumerable set,Problem solving,1
+Polynomial,Shading,0
+Economics,High-level programming language,0
+Traffic analysis,Program analysis,0
+Polymorphism (computer science),Arithmetic,0
+Bioinformatics,Combinatorics,1
+Vulnerability (computing),Performance tuning,0
+Routing,OSI model,1
+Parsing,Formal grammar,1
+Fast Fourier transform,Computer science,1
+Web server,Functional programming,0
+Computational science,Cloud computing,0
+Symbol table,Assembly language,1
+C++,Atomicity (database systems),0
+Propositional calculus,Inequality (mathematics),0
+Random walk,Graph (mathematics),1
+Rendering (computer graphics),Digital electronics,1
+Operating system,Computational complexity theory,1
+Cache coherence,Central processing unit,1
+Inequality (mathematics),Lexical analysis,0
+Pattern recognition,Suffix tree,0
+Bioinformatics,Scheduling (computing),0
+Automated planning and scheduling,Reason,1
+Logic,Foundations of mathematics,1
+Formal language,Mathematical proof,1
+Expected value,Congestion control,0
+Parametric polymorphism,Logic,0
+Undecidable problem,Context-free language,0
+Lisp (programming language),Mathematics,1
+Geometry,Run time (program lifecycle phase),0
+High-level programming language,Syntax,0
+Linear system,Mathematics,1
+Computer animation,Model checking,0
+Debugging,Ray tracing (graphics),0
+NP-complete,Graph theory,1
+Combinatorics,Software engineering,0
+hypothesis testing,Random variable,1
+Deadlock,Query language,0
+Concurrency control,Database transaction,1
+Web service,Data (computing),1
+Natural language processing,Computational science,1
+Inheritance (object-oriented programming),Database management system,0
+Packet switching,Data,1
+Recurrence relation,Computing,1
+Scope (computer science),Algorithm,1
+Recurrence relation,Computation,1
+Lazy evaluation,Authentication,0
+Cluster analysis,Logic,1
+Support vector machine,Message Passing Interface,0
+Web service,Memory hierarchy,0
+Data type,Computer animation,0
+Halting problem,Combinational logic,0
+Relational algebra,Combinatorics,0
+Randomized algorithm,Authentication,0
+Nonlinear system,Cryptanalysis,0
+Hidden Markov model,Logic,1
+Functional programming,Computer,1
+Robotics,Markov chain,1
+Logic programming,Estimation theory,0
+Computer science,Mathematical proof,1
+Economics,Question answering,0
+Complexity,Bayesian,0
+Computational chemistry,Foundations of mathematics,1
+Theoretical computer science,Reinforcement learning,0
+Virtual memory,Operating system,1
+Programming language,Graph theory,1
+Computability,Structured programming,0
+Differential equation,Expert system,0
+Spanning tree,Deadlock,0
